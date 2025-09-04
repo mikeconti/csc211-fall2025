@@ -15,15 +15,14 @@
 
 **Office Hours Schedule** - Tyler 3rd Floor Lounge
 
-| Day        | Staff Member                      | Time                               | Location                       |
-|------------|-----------------------------------|------------------------------------|--------------------------------|
-| Monday     | John <br> Liam                   | 11:00 AM - 2:00 PM <br> 12:00 PM - 1:45 PM | Tyler 3rd Floor Lounge <br> Tyler 3rd Floor Lounge            |
-| Tuesday    | Michael <br> Keely <br> Roquibat <br>     | 10:00 AM - 11:00AM <br> 12:30 PM - 2:00 PM <br> 3:30 PM - 5:30 PM <br>  | Tyler 132 <br> Tyler 3rd Floor Lounge <br> [Online](https://uri-edu.zoom.us/my/roquibat.adetunji) |
-| Wednesday  | Liam <br> Marvens <br> Nathan    | 12:30 PM - 3:00 PM <br> 1:00 PM - 2:00 PM <br> 5:00 PM - 6:00 PM | Tyler 3rd Floor Lounge <br> Tyler 3rd Floor Lounge <br> Tyler 3rd Floor Lounge |
-| Thursday   | John <br> Keely <br> Nathan       | 8:00 AM  - 9:15 AM <br> 12:30 PM - 2:00 PM <br> 1:00 PM - 3:00 PM <br> | [Online](https://uri-edu.zoom.us/j/96214355233) <br> Tyler 3rd Floor Lounge <br> Tyler 3rd Floor Lounge  |
-| Friday     | Liam <br> Roquibat <br> Keely    | 9:00 AM - 11:00 AM <br> 11:00 AM - 1:00 PM <br> 12:00 PM - 12:50 PM |[Online](https://uri-edu.zoom.us/j/8658926757) <br> Tyler 1st Floor Lounge <br> Tyler 1st Floor Lounge |
-
-
+| Day            | Staff Member          | Time                  | Location |
+|----------------|----------------------|-----------------------|----------|
+| Monday         | Liam <br> Lily       | 12:00 PM - 1:00 PM <br> 1:00 PM - 3:00 PM | Tyler 3rd Floor Lounge |
+| Tuesday        | Liam                 | 2:00 PM - 4:00 PM     | Tyler 3rd Floor Lounge |
+| Wednesday      | John <br> Liam <br> Lily | 12:00 PM - 2:45 PM <br> 1:00 PM - 2:00 PM <br> 2:00 PM - 3:30 PM | Tyler 3rd Floor Lounge |
+| Thursday       | Liam                 | 3:00 PM - 4:00 PM     | Tyler 3rd Floor Lounge |
+| Friday (Lab 1) | Liam <br> John       | 12:00 PM - 1:45 PM    | Tyler 3rd Floor Lounge |
+| Friday (Lab 2) | Lily <br> Liam       | 2:00 PM - 3:45 PM     | Tyler 3rd Floor Lounge |
 
 
 
@@ -34,17 +33,16 @@
 
 | Day | Staff Member |  Time | Location |
 | --- | --- | --- | --- |
-|Monday | Liam | 1:45 PM - 2:45 PM | Tyler 055 | 
-|Wednesday | Keely, Roquibat | 2:00 PM - 3:00 PM | Tyler 055 |
+|Wednesday | John | 11:00 AM - 12:00 PM | TBD |
+|Thursday | Liam | 2:00 PM - 3:00 PM | TBD | 
 
 
  **Lab**
 
 | Day       | Staff Member              | Time            | Room                         |
 |-----------|---------------------------|-----------------|------------------------------|
-| Monday    | John, Liam,  Nathan | 3:00 PM - 4:45 PM | Washburn Hall 220            |
-| Wednesday | Keely, Marvens, Roquibat | 3:00 PM - 4:45 PM | Tyler Hall Room 055          |
-| Thursday  | Keely, Marvens, Roquibat    | 3:30 PM - 5:15 PM | Engineering Building Room 045 |
+| Friday    | John, Liam | 12:00 PM - 1:45 PM | Library 166            |
+| Friday | Liam, Lily | 2:00 PM - 3:45 PM | Library 166|
 
  
 
