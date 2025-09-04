@@ -21,8 +21,6 @@
 | Tuesday        | Liam                 | 2:00 PM - 4:00 PM     | Tyler 3rd Floor Lounge |
 | Wednesday      | John <br> Liam <br> Lily | 12:00 PM - 2:45 PM <br> 1:00 PM - 2:00 PM <br> 2:00 PM - 3:30 PM | Tyler 3rd Floor Lounge |
 | Thursday       | Liam                 | 3:00 PM - 4:00 PM     | Tyler 3rd Floor Lounge |
-| Friday (Lab 1) | Liam <br> John       | 12:00 PM - 1:45 PM    | Tyler 3rd Floor Lounge |
-| Friday (Lab 2) | Lily <br> Liam       | 2:00 PM - 3:45 PM     | Tyler 3rd Floor Lounge |
 
 
 
