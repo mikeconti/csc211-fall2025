@@ -18,7 +18,7 @@
 | Day            | Staff Member          | Time                  | Location |
 |----------------|----------------------|-----------------------|----------|
 | Monday         | Liam <br> Lily       | 12:00 PM - 1:00 PM <br> 1:00 PM - 3:00 PM | Tyler 3rd Floor Lounge |
-| Tuesday        | Liam                 | 2:00 PM - 4:00 PM     | Tyler 3rd Floor Lounge |
+| Tuesday        | Michael <br> Liam                 |  11:00 AM - 12:00 PM <br> 2:00 PM - 4:00 PM     | Tyler 132 <br> Tyler 3rd Floor Lounge |
 | Wednesday      | John <br> Liam <br> Lily | 12:00 PM - 2:45 PM <br> 1:00 PM - 2:00 PM <br> 2:00 PM - 3:30 PM | Tyler 3rd Floor Lounge |
 | Thursday       | Liam                 | 3:00 PM - 4:00 PM     | Tyler 3rd Floor Lounge |
 
